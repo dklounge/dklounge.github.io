@@ -1,2 +1,25 @@
-timezone: America/Los_Angeles
-markdown: github
+exclude: ["README.md", "Rakefile"]
+pygments: true
+
+title : David Kim stuff
+author :
+  name : David Kim
+  email : daviddarden11@gmail.com
+  github : dklounge
+  twitter : findinbay
+  feedburner :
+
+production_url : http://dklounge.github.io
+
+BASE_PATH : false
+ASSET_PATH : false
+
+sharing :
+  provider : false
+
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-43170427-2'
+  getclicky :
+    site_id :

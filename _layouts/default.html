@@ -1,0 +1,90 @@
+---
+
+---
+
+{% include setup %}
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="About David Kim: personal and professional activities as a technical MBA, business strategist and hacker. You can follow him on github.com/dklounge or twitter @findinbay.">
+    <meta name="keywords" content="technical MBA, CPA, technical advisor, business strategist">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ ASSET_PATH }}/stylesheets/main.css" media="screen" />
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>David Kim's stuff</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <h1>David Kim</h1>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+        <h3>In progress ...</h3>
+        <p>This page is still under renovation. Site is very Web 1.0. It's because I'm pretty old.<br>
+          Meanwhile, please let me know if I can help.</p>
+        <p>I'm currently working on:
+          <ul>
+            <li><a target="_" href="http://techproductmanager.com">techproductmanager.com</a></li>
+            <li><a target="_" href="http://pleaserefactor.com">pleaserefactor.com</a></li>
+          </ul>
+        </p>
+
+        <p>You can <a href="mailto:daviddarden11@gmail.com">email me</a>.</p>
+
+        {% if site.analytics.provider and page.analytics != false %}
+          {{ site.safe }}
+        {% endif %}
+
+        <h3>History</h3>
+
+        <h4>2014</h4>
+        <ul>
+          <li>01: Hacking ...</li>
+        </ul>
+
+        <h4>2013</h4>
+        <ul>
+          <li>08: Hosted <a target="_" href="https://twitter.com/greggpollack">Gregg Pollack of Code School</a> who talked about <a target="_" href="http://www.meetup.com/sfruby/events/131917612/">12 steps to becoming a better developer</a>.</li>
+          <li>07: Completed <a target="_" href="https://leanpub.com/coding-bootcamps/">Choosing a Coding Bootcamp</a> e-book.</li>
+          <li>03: Founded SF <a target="_" href="http://www.meetup.com/ProductLovers/">Product Management Fast-Track meetup</a> with friend <a target="_" href="http://twitter.com/sfritu">Ritu</a>, and started building a community.</li>
+          <li>01: Worked at __Hack Reactor__, San Francisco and helped with business development.</li>
+        </ul>
+
+        <h4>2012</h4>
+        <ul>
+          <li>
+            12: Met with <a target="_" href="http://www.eriktrautman.com/">Erik</a> and started the <a target ="_" href="http://rubyrookies.com">Ruby Rookies</a> idea.
+          </li>
+          <li>05 - 12: Worked on bunch of products that no one wanted. Turns out, knowing what people want is an intuition built from building and trying - whether failure or success.</li>
+          <li>04: Decided to leave Intel to move to the SF Bay Area.</li>
+          <li>
+            03: <a target="_" href="http://findinbay.blogspot.com/2012/03/what-problem-does-instagram-solve.html">First blog with 100+ views</a> ... wrote about Instagram.
+          </li>
+        </ul>
+
+        <h4>2011</h4>
+        <ul>
+          <li>06: Finished Darden Business School with a shiny MBA and moved to Portland, Oregon.</li>
+        </ul>
+
+        </section>
+      </div>
+    </div>
+
+    {% include analytics %}
+
+  </body>
+</html>
+

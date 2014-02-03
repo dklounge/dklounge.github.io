@@ -5,7 +5,7 @@
   {% if site.setup.provider == "custom" %}
     {% include custom/setup %}
   {% else %}
-    {% if site.safe and site.BASE_PATH and site.BASE_PATH != '' %}
+    {% if site.BASE_PATH and site.BASE_PATH != '' %}
       {% assign BASE_PATH = site.BASE_PATH %}
       {% assign HOME_PATH = site.BASE_PATH %}
     {% else %}

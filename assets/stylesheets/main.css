@@ -2,21 +2,60 @@
 
 ---
 
-{% include twitter/bootstrap/css/bootstrap.2.2.2.min.css %}
+{% include skeleton/stylesheets/base.css %}
+{% include skeleton/stylesheets/layout.css %}
+{% include skeleton/stylesheets/skeleton.css %}
 
-body {
-  padding: 0.3em;
-  font-family: sans-serif;
+/* include own style below */
+
+.container {
+  margin-top: 20px;
 }
 
-h4 {
-  margin-top: 0.25em;
-  margin-bottom: 0.15em;
+a {
+  color: #258;
 }
 
-#main-content {
-
+a:visited {
+  color: #427;
 }
 
-#main-content a {
+a:hover {
+  color: #c22;
+}
+
+#nav {
+  margin: 50px 0 0 0;
+}
+
+#nav ul li {
+  font-size: 1.2em;
+  display: inline;
+  margin: 0 30px 0 0;
+  margin-bottom: 130px;
+}
+
+#nav a {
+  color: #777;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#nav a:hover {
+  color: #c22;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.profile img:hover {
+  -webkit-transform: rotate(-1deg);
+     -moz-transform: rotate(-1deg);
+       -o-transform: rotate(-1deg);
+      -ms-transform: rotate(-1deg);
+          transform: rotate(-1deg);
+}
+
+
+.tagline {
+  color: #777;
 }

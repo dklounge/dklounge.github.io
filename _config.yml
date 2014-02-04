@@ -1,7 +1,7 @@
 exclude: ["README.md", "Rakefile"]
 pygments: true
 
-title : David Kim stuff
+title : David Kim's stuff
 author :
   name : David Kim
   email : daviddarden11@gmail.com
@@ -23,3 +23,8 @@ analytics :
       tracking_id : 'UA-43170427-2'
   getclicky :
     site_id :
+
+comments:
+  provider : disqus
+  disqus:
+    short_name: dklounge

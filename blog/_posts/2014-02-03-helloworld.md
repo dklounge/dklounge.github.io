@@ -2,6 +2,9 @@
 layout: post
 title: "Starting a new blog"
 description: "David Kim's blog"
+permalink: blog/david-kim-new-blog
+category:
+tags: [general]
 ---
 {% include setup %}
 

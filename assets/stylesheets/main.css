@@ -17,7 +17,7 @@ a {
 }
 
 a:visited {
-  color: #427;
+  color: #435;
 }
 
 a:hover {
@@ -42,14 +42,12 @@ blockquote cite a:hover {
 
 #nav a, #navbar a {
   color: #777;
-  font-weight: bold;
   text-decoration: none;
 }
 
 #nav a:hover, #navbar a:hover {
   color: #c22;
-  font-weight: bold;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 #navbar {
@@ -95,4 +93,9 @@ ul #sub-menu li {
 
 .pattern-diagonal {
   background: url("/assets/images/noise-white.jpg") repeat;
+}
+
+.date {
+  color: #555;
+  font-family: Times;
 }

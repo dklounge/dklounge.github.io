@@ -14,9 +14,14 @@ layout: default
 </div>
 
 <div class="sixteen columns">
+  <div class="date">{{ page.date | date: "%B %d, %Y" }}</div>
+  <br />
   {% include share_tweet.js %}
   <br /><br />
   {{ content }}
+
+  <a href="{{BASE_PATH}}/blog">Return to All Blogs</a>
+  <br /><br />
 
   {% include comments %}
 </div>

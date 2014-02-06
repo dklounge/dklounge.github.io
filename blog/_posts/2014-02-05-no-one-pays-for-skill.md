@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No one pay you for skills"
+title: "No one pays you for skills"
 description: ""
 permalink: blog/no-one-pays-you-for-skills
 category:

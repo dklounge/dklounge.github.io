@@ -6,6 +6,6 @@ title: "David's blog and rant"
 
 <ul>
   {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{post.title}}</a> {{ post.date | date: "<small style='color: gray;'>(%b. %d, %Y)</small>"}}</li>
+    <li style="font-size: 15px">{{ post.date | date: "<span style='color: gray; font-family: Courier;'>%d %b %Y: </span>"}} <a href="{{ post.url }}">{{post.title}}</a></li>
   {% endfor %}
 </ul>

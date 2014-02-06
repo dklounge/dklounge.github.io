@@ -8,7 +8,7 @@ tags: [economics]
 ---
 {% include setup %}
 
-Unsatisfied with the corporate, salaried-man life, I have been thinking about how to a niche for myself for quite some time now.
+Unsatisfied with the corporate, salaried-man life, I have been thinking about how to find a niche for myself for some time now.
 
 Increasingly, it is clear to me that no one pays for skills. People only pay for skills if your skills can help them earn more money or save time (time is especially valuable for the wealthy).
 

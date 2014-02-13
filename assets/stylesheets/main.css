@@ -106,7 +106,6 @@ ul #sub-menu li {
 
 .date {
   color: #555;
-  font-family: Times;
 }
 
 code {
@@ -144,3 +143,11 @@ pre code {
   border:0;
 }
 
+.share_rss {
+  display: inline;
+  font-size: 20px;
+}
+
+.share_rss a {
+  color: #f60;
+}

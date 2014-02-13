@@ -18,7 +18,7 @@ The gun fires! Yet again, the second shot is heard immediately after the first s
 
 In the replay, I see that all it took was that her elbow flinched by an inch prior to the start. This is tragic. Four years of preparation. A flinch of an elbow.
 
-Are you prepared for everything but the start? If you are preparing for everything but to begin, you may never get to show off your talents.
+Are you prepared for everything but the start? If you are preparing for everything but the beginning, you may never get to show off your talents.
 
 > ![Judith Hesse]({{site.url}}/assets/images/2014-02-11_JudithHesse.jpg "Judith Hesse" class="img-responsive")
 >

@@ -5,23 +5,27 @@ layout: default
 
 {% include navbar.html %}
 
-<div class="sixteen columns">
-  <div class="page-title">
-    {% if page.title %}
-    <h2>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h2>
-    {% endif %}
+<div class="row">
+  <div class="sixteen columns">
+    <div class="page-title">
+      {% if page.title %}
+      <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>
+      {% endif %}
+    </div>
   </div>
 </div>
 
-<div class="sixteen columns">
-  <div class="date">{{ page.date | date: "%B %d, %Y" }}</div>
-  <br />
-  {% include share_tweet.js %}
-  <br /><br />
-  {{ content }}
+<div class="row">
+  <div class="sixteen columns">
+    <div class="date">{{ page.date | date: "%B %d, %Y" }}</div>
+    <br />
+    {% include share_tweet.js %}
+    <br /><br />
+    {{ content }}
 
-  <a href="{{BASE_PATH}}/blog">Return to All Blogs</a>
-  <br /><br />
+    <a href="{{BASE_PATH}}/blog">Return to All Blogs</a>
+    <br /><br />
 
-  {% include comments %}
+    {% include comments %}
+  </div>
 </div>

@@ -5,15 +5,20 @@ layout: default
 
 {% include navbar.html %}
 
-<div class="sixteen columns">
-  <div class="page-title">
-    {% if page.title %}
-    <h2>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h2>
-    {% endif %}
+<div class="row">
+  <div class="sixteen columns">
+    <div class="page-title">
+      {% if page.title %}
+        <h2>{{ page.title }} {% if page.tagline %}</h2>
+        <small class="tagline">{{ page.tagline }}</small>{% endif %}
+      {% endif %}
+    </div>
   </div>
 </div>
 
-<div class="sixteen columns">
-  <br />
-  {{ content }}
+<div class="row">
+  <div class="sixteen columns">
+    <br />
+    {{ content }}
+  </div>
 </div>

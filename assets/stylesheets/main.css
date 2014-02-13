@@ -8,6 +8,10 @@
 
 /* include own style below */
 
+body {
+  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+}
+
 .container {
   margin-top: 20px;
 }
@@ -80,14 +84,16 @@ ul #sub-menu li {
           transform: rotate(-1deg);
 }*/
 
-.page-title {
-  height: 50px;
-}
 
 .tagline {
-  color: #777;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 22px;
   margin-bottom: 5px;
-  font-size: 23px;
+  color: #777;
+}
+
+.page-title {
+  height: 50px;
 }
 
 .float-right {
@@ -137,3 +143,4 @@ pre code {
   background-color:transparent;
   border:0;
 }
+

@@ -1,12 +1,23 @@
 ---
 layout: page
 title: "On Life of Learning"
-tagline: "A Journey Toward Better"
 ---
 {% include setup %}
 
-<ul>
-  {% for post in site.posts %}
-    <li style="font-size: 15px">{{ post.date | date: "<span style='color: gray; font-family: Courier;'>%d %b %Y: </span>"}} <a href="{{ post.url }}">{{post.title}}</a></li>
-  {% endfor %}
-</ul>
+<div class="eleven columns alpha">
+  <h4>A Journey Toward Better</h4>
+  <br />
+  <ul>
+    {% for post in site.posts %}
+      <li style="font-size: 15px">{{ post.date | date: "<span style='color: gray; font-family: Courier;'>%d %b %Y: </span>"}} <a href="{{ post.url }}">{{post.title}}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="five columns omega">
+  <h4>About</h4>
+    <p>I believe that today is better than yesterday, that you can take small steps to be happier and better, and that learning is the key.</p>
+
+  <h4>Get it in your inbox:</h4>
+    {% include mailchimp %}
+</div>

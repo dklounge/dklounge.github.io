@@ -162,11 +162,12 @@ pre code {
 .call_to_action {
   background: #dee;
   font-size: 16px;
+  border-radius: 10px;
 }
 
 .call_to_action p {
-  margin-top: 15px;
-  margin-left: 15px;
+  margin-top: 20px;
+  margin-left: 20px;
 }
 
 .call_to_action a {

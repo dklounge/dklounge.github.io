@@ -3,11 +3,11 @@
 console.log('main.js successfully loaded! Now loading other js below.');
 
 function flip() {
-  document.getElementById('profile').src = "{{BASE_PATH}}/assets/images/profile1.png";
+  document.getElementById('profile').src = "{{BASE_PATH}}/assets/images/profile1.jpg";
   // console.log('now entering the neutral zone');
 }
 function flip_back() {
-  document.getElementById('profile').src = "{{BASE_PATH}}/assets/images/profile2.png";
+  document.getElementById('profile').src = "{{BASE_PATH}}/assets/images/profile2.jpg";
   // console.log('now leaving the neutral zone');
 }
 

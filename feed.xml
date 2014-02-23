@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: nil
 title: "A Journey Toward Better"
 description: "David Kim's Blog: A Journey Toward Better"
 ---
@@ -9,9 +9,8 @@ description: "David Kim's Blog: A Journey Toward Better"
 
   <title>{{ page.title }}</title>
   <subtitle type="html">{% if page.description %} {{ page.description }} {% endif %}</subtitle>
-  <link type="text/html" rel="alternate" href="http://dklounge.github.io/" />
-  <link href="http://dklounge.github.io/feed.xml"
-    rel="self" type="application/atom+xml" />
+  <link type="application/atom+xml" rel="self" href="http://dklounge.github.io/feed.xml" />
+  <link type="text/html" href="http://dklounge.github.io/" />
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://dklounge.github.io/</id>
 
@@ -25,10 +24,8 @@ description: "David Kim's Blog: A Journey Toward Better"
       <name>{{ site.author.name }}</name>
       <email>{{ site.author.email }}</email>
     </author>
-    <content type="xhtml" xml:lang="en">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        {{ post.content | xml_escape }}
-      </div>
+    <content type="html">
+      {{ post.content | xml_escape }}
     </content>
   </entry>
   {% endfor %}

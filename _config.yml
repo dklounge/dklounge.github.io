@@ -2,13 +2,13 @@ exclude: ["README.md", "Rakefile"]
 pygments: true
 relative_permalinks: true
 
-title : David Kim's stuff
+title : David Kim homepage
 author :
   name : David Kim
   email : daviddarden11@gmail.com
   github : dklounge
   twitter : findinbay
-  feedburner :
+  feedburner : DavidKimBlog
 
 production_url : http://dklounge.github.io
 

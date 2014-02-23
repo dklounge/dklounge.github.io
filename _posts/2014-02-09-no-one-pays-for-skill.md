@@ -2,7 +2,7 @@
 layout: post
 title: "No one pays you for skills"
 description: ""
-permalink: blog/no-one-pays-you-for-skills
+permalink: no-one-pays-you-for-skills
 category:
 tags: [economics]
 ---

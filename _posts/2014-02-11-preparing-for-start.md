@@ -2,7 +2,7 @@
 layout: post
 title: "Are you ready to start?"
 description: ""
-permalink: blog/preparing-to-begin
+permalink: preparing-to-begin
 category:
 tags: [preparing]
 ---

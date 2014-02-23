@@ -2,7 +2,7 @@
 layout: post
 title: "The paradox of leverage"
 description: ""
-permalink: blog/paradox-of-leverage
+permalink: paradox-of-leverage
 category: [team]
 tags: [team, leverage]
 ---

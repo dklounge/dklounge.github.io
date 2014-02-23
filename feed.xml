@@ -1,33 +1,36 @@
 ---
 layout: none
-title: "On Life of Learning"
+title: "A Journey Toward Better"
 description: "David Kim's Blog: A Journey Toward Better"
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en-US">
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-  <channel>
-    <title>{{ page.title }}</title>
-    <description>{% if page.description %} {{ page.description }} {% endif %}</description>
-    <link>http://dklounge.github.io/blog/</link>
-    <atom:link href="http://dklounge.github.io/feed.xml"
-      rel="self" type="application/rss+xml" />
+  <title>{{ page.title }}</title>
+  <subtitle type="html">{% if page.description %} {{ page.description }} {% endif %}</subtitle>
+  <link type="text/html" rel="alternate" href="http://dklounge.github.io/" />
+  <link href="http://dklounge.github.io/feed.xml"
+    rel="self" type="application/atom+xml" />
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://dklounge.github.io/</id>
 
-    {% for post in site.posts limit:12 %}
-      <entry>
-        <title>{{ post.title }}</title>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>http://dklounge.github.io{{ post.url }}</link>
-        <guid isPermaLink="true">http://dklounge.github.io{{ post.url }}</guid>
-        <author>
-          <name>{{ site.author.name }}</name>
-          <email>{{ site.author.email }}</email>
-        </author>
-        <content type="xhtml" xml:lang="en">{{ post.content | xml_escape }}</content>
-      </entry>
-    {% endfor %}
+  {% for post in site.posts %}
+  <entry>
+    <id>http://dklounge.github.io{{ post.id }}</id>
+    <title>{{ post.title | xml_escape }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <link type="text/html" rel="alternate" href="http://dklounge.github.io{{ post.url }}" />
+    <author>
+      <name>{{ site.author.name }}</name>
+      <email>{{ site.author.email }}</email>
+    </author>
+    <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        {{ post.content | xml_escape }}
+      </div>
+    </content>
+  </entry>
+  {% endfor %}
 
-  </channel>
-
-</rss>
+</feed>

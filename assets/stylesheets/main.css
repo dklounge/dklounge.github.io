@@ -28,6 +28,10 @@ a:hover {
   color: #c22;
 }
 
+blockquote {
+  padding-bottom: 10px;
+}
+
 blockquote cite a:hover {
   color: #c22;
   font-weight: bold;

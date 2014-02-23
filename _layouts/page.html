@@ -5,19 +5,19 @@ layout: default
 
 {% include navbar.html %}
 
-<!-- <div class="row">
-  <div class="sixteen columns">
-    <div class="page-title">
-      {% if page.title %}
-        <h2>{{ page.title }} {% if page.tagline %}</h2>
-        <small class="tagline">{{ page.tagline }}</small>{% endif %}
-      {% endif %}
-    </div>
-  </div>
-</div> -->
-
-<div class="row">
-  <div class="sixteen columns">
+<div class="sixteen columns">
+  <div class="eleven columns alpha">
     {{ content }}
+
+    <br />
+
+    {% include share_follow.html %}
+
+  </div>
+
+  <div class="five columns omega">
+
+    {% include profile.html %}
+
   </div>
 </div>

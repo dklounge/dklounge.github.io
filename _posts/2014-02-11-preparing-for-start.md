@@ -4,7 +4,7 @@ title: "Are you ready to start?"
 description: ""
 permalink: preparing-to-begin
 category:
-tags: [preparing]
+tags: [start]
 ---
 {% include setup %}
 
@@ -18,8 +18,14 @@ The gun fires! Yet again, the second shot is heard immediately after the first s
 
 In the replay, I see that all it took was that her elbow flinched by an inch prior to the start. __This is tragic__. Four years of preparation. A flinch of an elbow.
 
-__Are you prepared for everything but the start?__ If you are preparing for everything but the beginning, you may never get to show off your talents or [skills](../no-one-pays-you-for-skills).
+__Are you prepared for everything but the start?__ If you are preparing for everything but the beginning, you may never get to show off your talents or [skills](../what-is-a-skill-worth).
 
 > ![Judith Hesse]({{site.url}}/assets/images/2014-02-11_JudithHesse.jpg "Judith Hesse" class="img-responsive")
 >
 > AP Photo/Patrick Semansky
+
+<blockquote class="pattern-diagonal">
+Let\'s not dwell on the fall. Falling and getting up, it is all part of this wonderful life. We have tomorrow.
+</blockquote>
+
+Keep looking up!

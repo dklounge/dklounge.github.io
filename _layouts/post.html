@@ -5,20 +5,19 @@ layout: default
 
 {% include navbar.html %}
 
-<div class="row">
-  <div class="sixteen columns">
+<div class="sixteen columns">
+
+  <div class="eleven columns alpha">
     <div class="page-title">
       {% if page.title %}
       <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>
       {% endif %}
     </div>
-  </div>
-</div>
 
-<div class="row">
-  <div class="sixteen columns">
     <div class="date">{{ page.date | date: "%B %d, %Y" }}</div>
+
     <br />
+
     {% include share_tweet.js %}
 
     {% include share_rss.html %}
@@ -31,4 +30,14 @@ layout: default
     {% include share_follow.html %}
     {% include comments %}
   </div>
+
+  <div class="five columns omega">
+
+    <h4>Get it free in your inbox</h4>
+
+    <p>Delivered absolutely free.</p>
+      {% include mailchimp %}
+      {% include topposts.html %}
+  </div>
+
 </div>

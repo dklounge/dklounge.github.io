@@ -44,4 +44,10 @@ What about your service or product? When your customer lands on your page, is yo
 >And what about you? How are you __applying leverage__ in your work or life habits?
 >
 
-Until next time, be well!
+
+Today, think about something you are doing repeatedly, and reflect whether you are applying the right leverage.
+
+<blockquote class="pattern-diagonal">
+What tool could you build or use to get more out of your time or actions?
+</blockquote>
+Until next time, keep looking up!

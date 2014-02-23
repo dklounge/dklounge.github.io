@@ -1,13 +1,19 @@
 ---
 layout: post
-title: "Starting a new blog"
+title: "Hello world: a clean slate"
 description: "David Kim's blog"
-permalink: david-kim-new-blog
+permalink: helloworld
 category:
-tags: [general]
+tags: [start]
 ---
 {% include setup %}
 
-I am going to be moving my blogs and rants from [findinbay.blogspot.com](http://findinbay.blogspot.com).
+I am quitting my old blog at [findinbay.blogspot.com](http://findinbay.blogspot.com).
 
-Why re-start? Because I\'ve had many restarts in my life lately. It is about building new skills for the future. (Though, I am of the mind that [no one pays for skills](../no-one-pays-you-for-skills) per se.) It is about learning to create. And you do that by the practice of building, building little things like this blog, and writing.
+Why re-start? Because I wanted to practice [a new skill](../what-is-a-skill-worth) of building a blog and serving an audience. Because I\'ve had many restarts in my life lately. Life is about starting. If you stop, you die. It is about wiping away the past, enjoying today, and being ready for tomorrow. It is about creating. And you do that by the practice of building, building little things like this blog, and writing.
+
+<blockquote class="pattern-diagonal">
+What are you starting today? Do something that makes you happy; start today!
+</blockquote>
+
+Keep looking up!

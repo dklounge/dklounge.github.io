@@ -15,7 +15,7 @@ description: "David Kim's Blog: A Journey Toward Better"
       rel="self" type="application/rss+xml" />
 
     {% for post in site.posts limit:12 %}
-      <item>
+      <entry>
         <title>{{ post.title }}</title>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>http://dklounge.github.io{{ post.url }}</link>
@@ -25,7 +25,7 @@ description: "David Kim's Blog: A Journey Toward Better"
           <email>{{ site.author.email }}</email>
         </author>
         <content type="xhtml" xml:lang="en">{{ post.content | xml_escape }}</content>
-      </item>
+      </entry>
     {% endfor %}
 
   </channel>

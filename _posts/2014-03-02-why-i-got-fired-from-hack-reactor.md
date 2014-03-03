@@ -8,7 +8,7 @@ tags: [career, startup]
 ---
 {% include setup %}
 
-I had dinner with Tony last week. Tony is the CEO of Hack Reactor and is a buddy of mine. I had not thought much about the place for over a half year, but that meeting made me reflect more about what happened. When I talk to companies, people still ask me why I left Hack Reactor.
+I had dinner with Tony last week. Tony is the CEO of Hack Reactor and a buddy of mine. I had not thought much about the place for over a half year, but that meeting made me reflect more about what happened. When I talk to companies, people still ask me why I left Hack Reactor.
 
 Truth is I was let go. Here is what happened.
 
@@ -16,9 +16,11 @@ Truth is I was let go. Here is what happened.
 >
 > Friends hacking at Hack Reactor into the night
 
+By the way, this is a picture of friends from meetup at Hack Reactor, not Hack Reactor students. Organizing meetups are part of how I got the job in the first place - so if that interests you, be sure to check out the [series on meetups](../meetup-101-what-makes-successful-meetup).
+
 ###Floor shifting under feet
 
-I had a pretty good idea I was going to be canned, too, weeks before it happened. Tony used to be my boss, and he let me run the business development without managing me. That is why I was brought in, to make connections and help get the program on the map. When he told me that Shawn would be my manager, I knew something was up.
+I had a pretty good idea I was going to be canned, too - weeks before it happened. Tony used to be my boss, and he let me run the business development show. That is why I was brought in, to make connections and help get the school on the map. When he told me that Shawn would be my manager, I knew something was up.
 
 At the time, here is how I was spending time in my life - basically what I was investing in.
 
@@ -42,11 +44,11 @@ For a startup, I think different people are right at different stages.
 
 I was lucky that I was able to help the team in its first months and add some energy and insight as they fought for survival. Really, there was a time when there were the five of us - the four founders and I.
 
-But, I was not right for the scale. During the dinner, Tony told me about how much Hack Reactor had grown. Even while I was around, the team had grown considerably and zooned past ten full-time staff, plus bunch of part-time instructors, etc. We were using a product management software to organize team efforts and kicking ass via media professionals.
+But, I was not right for the scale. During the dinner, Tony told me about how much Hack Reactor had grown. Even while I was around, the team had grown considerably and zoomed past ten full-time staff, plus bunch of part-time instructors, etc. We were using a product management software to organize team efforts and kicking ass via media professionals.
 
 I hope you can grow through all the stages and become very successful. But, it is hard. Founders get a free-pass "get out of the jail" card. They own the company.
 
-Tony had hired me saying "tell us what to do marketing-wise." Looking back, I really was unable to do that. I did not know enough or have enough experience in the space to know what to do. Basically, I was the wrong guy for the scaling. Here are the things that held me back and unable to adapt.
+Tony had hired me saying "tell us what to do marketing-wise." Looking back, I really was unable to do that. I did not know enough or have enough experience in the space to know what to do. I began to check out a bit as the team grew, I felt less important (and was less important). Basically, I was the wrong guy for the scaling. Here are the things that held me back and unable to adapt.
 
 
 ###Why I was the wrong employee at the scale stage

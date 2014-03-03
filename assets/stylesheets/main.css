@@ -14,12 +14,9 @@ body {
   /*font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 }
 
-.blog p, li {
-  line-height: 1.8;
-}
-
-.container {
-  margin-top: 20px;
+ol, ul {
+/*  list-style-position: inside;
+  list-style: disc;*/
 }
 
 a {
@@ -46,6 +43,14 @@ blockquote p {
 blockquote cite a:hover {
   color: #c22;
   font-weight: bold;
+}
+
+.blog p {
+  line-height: 1.8;
+}
+
+.container {
+  margin-top: 20px;
 }
 
 .profile {
@@ -206,7 +211,6 @@ pre code {
 #mc_embed_meetup input {
   display: inline;
 }
-
 
 @mixin box_sizing {
   -moz-box-sizing: border-box;

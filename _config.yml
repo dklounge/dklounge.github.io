@@ -2,7 +2,7 @@ exclude: ["README.md", "Rakefile"]
 pygments: true
 relative_permalinks: true
 
-title : David Kim homepage
+title : The Growth Blog
 author :
   name : David Kim
   email : daviddarden11@gmail.com

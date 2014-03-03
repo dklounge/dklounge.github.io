@@ -1,0 +1,46 @@
+---
+layout: default
+---
+{% include setup %}
+
+{% include navbar.html %}
+
+<div class="sixteen columns">
+
+  <div class="eleven columns alpha">
+    <div class="page-title">
+      {% if page.title %}
+      <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>
+      {% endif %}
+    </div>
+
+    <div class="date">{{ page.date | date: "%B %d, %Y" }}</div>
+
+    <br />
+
+    {% include share_tweet.js %}
+
+    {% include share_rss.html %}
+
+    <br /><br />
+    <div class="blog">
+      {{ content }}
+
+      <p><strong>Subscribe</strong> and get all the insider info about meetups:</p>
+      {% include mailchimp_meetup %}
+    </div>
+
+    <a href="{{BASE_PATH}}/pages/blog.html">To All Blogs</a> | <a href="{{BASE_PATH}}/index.html">Return Home</a>
+    <br /><br />
+    {% include share_follow.html %}
+    {% include comments %}
+  </div>
+
+  <div class="five columns omega">
+
+    <h3>Get new posts via email:</h3>
+      {% include mailchimp %}
+      {% include recentposts.html %}
+  </div>
+
+</div>

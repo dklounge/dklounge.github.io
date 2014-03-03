@@ -22,7 +22,7 @@ One of the projects I took up last year was to try to save prospective coding st
 The insight is, the readers don\'t care about skills I have. They only care about them to the extent that those skills might be applied to help them save time, or perhaps help them find a way to earn more money, or get ahead in career.
 
 <blockquote class="pattern-diagonal">
-Are you listening to your customer\'s problems? No one cares about your solutions or skills.
+Are you listening to your customer's problems? No one cares about your solutions or skills.
 </blockquote>
 
 Keep looking up!

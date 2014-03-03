@@ -6,12 +6,20 @@ description: "David Kim consultant"
 
 {% include setup %}
 
-I can help you.
+<h3>How can I help you?</h3>
 
->  * __Explore new revenues__: by discovering new channels.
->  * __Connect with customers__: by building a community.
->  * __Save time__: by analyzing your workflows with a fresh perspective.
+If you are thinking about or having challenges in:
 
-Please reach out for a free consultation.
+>  * __Exploring new revenues__
+>  * __Connecting with customers__
+>  * __Feeling frustrated with processes__
+
+Please reach out for a free consultation: <strong>daviddarden11</strong> at gmail dot com
+
+Here are some other ways to stay connected:
 
 {% include ss-icons.html %}
+
+<br />
+
+{% include news.html %}

@@ -23,9 +23,11 @@ layout: default
     {% include share_rss.html %}
 
     <br /><br />
-    {{ content }}
+    <div class="blog">
+      {{ content }}
+    </div>
 
-    <a href="{{BASE_PATH}}/index.html">Return to All Blogs</a>
+    <a href="{{BASE_PATH}}/pages/blog.html">To All Blogs</a> | <a href="{{BASE_PATH}}/index.html">Return Home</a>
     <br /><br />
     {% include share_follow.html %}
     {% include comments %}
@@ -33,11 +35,9 @@ layout: default
 
   <div class="five columns omega">
 
-    <h4>Get it free in your inbox</h4>
-
-    <p>Delivered absolutely free.</p>
+    <h3>Get new posts via email:</h3>
       {% include mailchimp %}
-      {% include topposts.html %}
+      {% include recentposts.html %}
   </div>
 
 </div>

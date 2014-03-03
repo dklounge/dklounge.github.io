@@ -4,23 +4,22 @@
 <div id="mc_embed_signup">
   <form action="http://github.us4.list-manage.com/subscribe/post?u=7538c9b9f9d0af6427404e8fd&amp;id=bd52d1fb6f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
-  <div class="indicates-required"><span class="asterisk">*</span> required</div>
   <div class="mc-field-group">
       <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
   </label>
       <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
   </div>
-  <div class="mc-field-group">
+  <!--div class="mc-field-group">
       <label for="mce-FNAME">First Name  <span class="asterisk">*</span>
   </label>
       <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
-  </div>
+  </div-->
       <div id="mce-responses" class="clear">
           <div class="response" id="mce-error-response" style="display:none"></div>
           <div class="response" id="mce-success-response" style="display:none"></div>
       </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
       <div style="position: absolute; left: -5000px;"><input type="text" name="b_7538c9b9f9d0af6427404e8fd_bd52d1fb6f" value=""></div>
-      <div><input type="submit" value="Subscribe to the newsletter" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+      <div><input type="submit" value="Send me the goods" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
   </form>
 </div>
 

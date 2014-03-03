@@ -9,7 +9,13 @@
 /* include own style below */
 
 body {
-  font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+  font-size: 16px;
+  /*font: 15px "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;*/
+  /*font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+}
+
+.blog p {
+  line-height: 1.8;
 }
 
 .container {
@@ -32,9 +38,24 @@ blockquote {
   padding-bottom: 10px;
 }
 
+blockquote p {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
 blockquote cite a:hover {
   color: #c22;
   font-weight: bold;
+}
+
+.profile {
+  font-size: 15px;
+}
+
+#profile {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
 }
 
 #nav {
@@ -87,7 +108,6 @@ ul #sub-menu li {
       -ms-transform: rotate(-1deg);
           transform: rotate(-1deg);
 }*/
-
 
 .tagline {
   font-family: Copperplate, "Copperplate Gothic Light", fantasy;
@@ -167,6 +187,9 @@ pre code {
   background: #dee;
   font-size: 16px;
   border-radius: 10px;
+  -moz-box-shadow:    2px 3px 4px 1px #ddd;
+  -webkit-box-shadow: 2px 3px 4px 1px #ddd;
+  box-shadow:         2px 3px 4px 1px #ddd;
 }
 
 .call_to_action p {
@@ -176,4 +199,17 @@ pre code {
 
 .call_to_action a {
   color: #f70;
+}
+
+/* Form styles */
+
+#mc_embed_meetup input {
+  display: inline;
+}
+
+
+@mixin box_sizing {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 }

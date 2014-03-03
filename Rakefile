@@ -7,8 +7,10 @@ SOURCE = "."
 CONFIG = {
   'version' => "0.3.0",
   'layouts' => File.join(SOURCE, "_layouts"),
-  'posts' => File.join(SOURCE, "blog/_posts"),
-  'post_ext' => "md"
+  'posts' => File.join(SOURCE, "_posts"),
+  'post_ext' => "md",
+  'drafts' => File.join(SOURCE, "_drafts"),
+  'draft_ext' => "md",
 }
 
 # Path configuration helper
@@ -17,7 +19,8 @@ class Path
   Paths = {
     :layouts => "_layouts",
     :assets => "assets",
-    :posts => "blog/_posts"
+    :posts => "_posts",
+    :drafts => "_drafts"
   }
 
   def self.base
@@ -59,13 +62,47 @@ task :post do
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
     post.puts 'description: ""'
-    post.puts "permalink: "
+    post.puts "permalink: #{slug}"
     post.puts "category: #{category}"
     post.puts "tags: #{tags}"
     post.puts "---"
     post.puts "{% include setup %}"
   end
 end # task :post
+
+# Usage: rake draft title="A Title" [date="2012-02-09"] [tags=[tag1,tag2]] [category="category"]
+desc "Begin a new draft in #{CONFIG['drafts']}"
+task :draft do
+  abort("rake aborted: '#{CONFIG['drafts']}' directory not found.") unless FileTest.directory?(CONFIG['drafts'])
+  title = ENV["title"] || "new-post"
+  tags = ENV["tags"] || "[]"
+  category = ENV["category"] || ""
+  category = "\"#{category.gsub(/-/,' ')}\"" if !category.empty?
+  slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  begin
+    date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
+  rescue => e
+    puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
+    exit -1
+  end
+  filename = File.join(CONFIG['drafts'], "#{date}-#{slug}.#{CONFIG['draft_ext']}")
+  if File.exist?(filename)
+    abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
+  end
+
+  puts "Creating new draft: #{filename}"
+  open(filename, 'w') do |draft|
+    draft.puts "---"
+    draft.puts "layout: post"
+    draft.puts "title: \"#{title.gsub(/-/,' ')}\""
+    draft.puts 'description: ""'
+    draft.puts "permalink: #{slug}"
+    draft.puts "category: #{category}"
+    draft.puts "tags: #{tags}"
+    draft.puts "---"
+    draft.puts "{% include setup %}"
+  end
+end # task :draft
 
 # Usage: rake page name="about.html"
 # You can also specify a sub-directory path.

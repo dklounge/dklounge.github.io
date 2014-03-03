@@ -25,7 +25,7 @@ __Are you prepared for everything but the start?__ If you are preparing for ever
 > AP Photo/Patrick Semansky
 
 <blockquote class="pattern-diagonal">
-Let\'s not dwell on the fall. Falling and getting up, it is all part of this wonderful life. We have tomorrow.
+Let's not dwell on the fall. Falling and getting up, it is all part of this wonderful life. We have tomorrow.
 </blockquote>
 
 Keep looking up!

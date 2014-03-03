@@ -3,7 +3,7 @@ layout: post
 title: "Make a mountain out of a molehill"
 description: ""
 permalink: sweat-the-small-stuff
-category:
+category: career
 tags: [process, effectiveness]
 ---
 {% include setup %}

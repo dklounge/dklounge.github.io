@@ -14,7 +14,7 @@ body {
   /*font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 }
 
-.blog p {
+.blog p, li {
   line-height: 1.8;
 }
 

@@ -64,9 +64,9 @@ __Takeaway__: Keep learning and growing! My mantra!
 
 ###Concluding observations
 
-Back to the dinner conversation. Hack Reactor is dominating the San Francisco coding bootcamp scene. They have a good team and good leadership. Basically, I needed Hack Reactor more than it needed me. Hubris got in the way of that reality for me, and lead to difference of opinions that ultimately lead to being shown the door. They don\'t miss me.
+Back to the dinner conversation. Hack Reactor is dominating the San Francisco [coding bootcamp](https://leanpub.com/coding-bootcamps/) scene. They have a good team and good leadership. Basically, I needed Hack Reactor more than it needed me. Hubris got in the way of that reality for me, and lead to difference of opinions that ultimately lead to being shown the door. They don\'t miss me.
 
-Good thing is, I don\'t miss them either. You learn from your mistakes. For me, one lesson is to improve my understanding of [leverage in life](../paradox-of-leverage). Another is that building something valuable is [all about details](sweat-the-small-stuff), contrary to what MBA courses teach. Trick is to stay present and have no regrets.
+Good thing is, I don\'t miss them either. You learn from your mistakes. For me, one lesson is to improve my understanding of [leverage in life](../paradox-of-leverage). Another is that building something valuable is [all about details](../sweat-the-small-stuff), contrary to what MBA courses teach. Trick is to stay present and have no regrets.
 
 Are you just getting started? You might enjoy my post [about preparations](../preparing-to-begin).
 

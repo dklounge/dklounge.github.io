@@ -15,8 +15,8 @@ body {
 }
 
 ol, ul {
-/*  list-style-position: inside;
-  list-style: disc;*/
+  list-style-position: inside;
+  list-style-type: disc;
 }
 
 a {

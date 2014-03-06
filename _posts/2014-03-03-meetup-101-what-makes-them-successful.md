@@ -64,7 +64,7 @@ __You will also enjoy__
 
 This is a first post in a series about meetups and how you can use them for personal or community growth. Stay tuned during March, as we also hit topics like:
 
-* -How do you grow the membership?
-* -How much time does it take?
-* -Can you make money with a meetup group?
-* -Interviews with successful organizers
+* How do you grow the membership?
+* How much time does it take?
+* Can you make money with a meetup group?
+* Interviews with successful organizers

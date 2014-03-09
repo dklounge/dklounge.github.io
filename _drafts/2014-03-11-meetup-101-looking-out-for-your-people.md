@@ -7,3 +7,5 @@ category: community
 tags: [meetups]
 ---
 {% include setup %}
+
+Will you love me if I learn to code?

@@ -109,4 +109,6 @@ I love cats. So I have to share this image again.
 >
 > This is a soft landing - credit [imgur](http://i.imgur.com/0RSkLtl.gif)
 
+If you liked this post, you might also enjoy reading [Why I got fired from Hack Reactor](../why-i-got-fired-from-hack-reactor) and [Sweat the Small Stuff](../sweat-the-small-stuff).
+
 That is all.

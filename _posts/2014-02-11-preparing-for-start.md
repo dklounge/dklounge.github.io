@@ -28,4 +28,6 @@ __Are you prepared for everything but the start?__ If you are preparing for ever
 Let's not dwell on the fall. Falling and getting up, it is all part of this wonderful life. We have tomorrow.
 </blockquote>
 
+If you liked this post, you might also enjoy reading [Paradox of Leverage](../paradox-of-leverage) and [Sweat the Small Stuff](sweat-the-small-stuff).
+
 Keep looking up!

@@ -50,4 +50,7 @@ Today, think about something you are doing repeatedly, and reflect whether you a
 <blockquote class="pattern-diagonal">
 What tool could you build or use to get more out of your time or actions?
 </blockquote>
-Until next time, keep looking up!
+
+If you liked this post, you might also enjoy reading [Sweat the Small Stuff](../sweat-the-small-stuff).
+
+Keep looking up!

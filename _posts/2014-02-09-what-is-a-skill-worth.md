@@ -25,4 +25,6 @@ The insight is, the readers don\'t care about skills I have. They only care abou
 Are you listening to your customer's problems? No one cares about your solutions or skills.
 </blockquote>
 
+If you liked this post, you might also enjoy reading [The Paradox of Leverage](../paradox-of-leverage) and [Sweat the Small Stuff](sweat-the-small-stuff).
+
 Keep looking up!

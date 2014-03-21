@@ -24,4 +24,6 @@ Building something valuable, like the beautiful [Chartres Cathedral](http://en.w
 Today, what one detail can you polish that help you build your cathedral?
 </blockquote>
 
+If you liked this post, you might also enjoy reading [The Paradox of Leverage](../paradox-of-leverage).
+
 Keep looking up!

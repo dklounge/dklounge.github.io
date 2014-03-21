@@ -40,4 +40,6 @@ The same problem re-imagined.
   <cite>God (according to Isaiah)</cite>
 </blockquote>
 
+If you liked this post, you might also enjoy reading [Preparing to Start](../preparing-to-begin).
+
 Peace!

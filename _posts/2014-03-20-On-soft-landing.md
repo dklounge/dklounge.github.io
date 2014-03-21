@@ -17,11 +17,11 @@ A friend asked me a curious question today. He shared that he was thinking about
 This friend currently works for a multi-national, but had worked in smaller ventures before. I told him that I have been underemployed for the past two years, and did not feel qualified to share helpful advice on the topic.
 
 ###Rewind 2 Years
-But the question stuck with me, and I had to think and write about it. Back in early 2012 (about two years ago), I was had the very same dilemma while I was working for the man. The mna was called [Intel Corporation](http://www.intel.com). I made a decision to leave, and while I have no regrets, I made some mistakes. Maybe my experience will be useful to some folks out there like my friend.
+But the question stuck with me, and I had to think and write about it. Back in early 2012 (about two years ago), I was had the very same dilemma while I was working for the man. The man was called [Intel Corporation](http://www.intel.com). I made a decision to leave, and while I have no regrets, I made some mistakes. Maybe my experience will be useful to some folks out there like my friend.
 
 There are two angles that are worth exploring. Before you quit your job, spend some time meditating on these aspects of your decision.
 
-* Angle 1 - Derisking the unknown
+* Angle 1 - De-risking the unknown
 * Angle 2 - Recognizing fear
 
 __My Story__
@@ -42,10 +42,10 @@ In a comical way, the situation is similar to the well-known South Park episode 
 
 What happened to the middle part? The execution part? Which is in the future? We don\'t know. And I didn\'t know that I didn\'t know.
 
-###1. Derisking the unknown
-_I did not even know it._ That\'s the key problem. Put yourself in my friend\'s shoes. If he leaves, and he fails, what shall become of him? How can he plan ahead such that he can find a resaonably role following the time spent in a new venture?
+###1. De-risking the unknown
+_I did not even know it._ That\'s the key problem. Put yourself in my friend\'s shoes. If he leaves, and he fails, what shall become of him? How can he plan ahead such that he can find a reasonably role following the time spent in a new venture?
 
-Well, here are some strategies for derisking the next steps.
+Well, here are some strategies for de-risking the next steps.
 
 __Avoid the wantrepreneur trap and validate first__
 
@@ -53,11 +53,11 @@ I was recently talking to a successful entrepreneur. He surprised me when he sai
 
 __Best validation is customer payment__
 
-Before I quit Intel, I definitely tried to validate the viability of both the startup ideas and my abilities. First, I had a co-founder who had a track-record of success (de-risking technique). I talked to friends and potential customers (de-risking). We built a demo and showed it to people (de-risking for customers and for ourselves as a team). Heck, we got a [Y Combinator](http://ycombinator.com/) interview, which I felt like was the ultimate derisking. Right?
+Before I quit Intel, I definitely tried to validate the viability of both the startup ideas and my abilities. First, I had a co-founder who had a track-record of success (de-risking technique). I talked to friends and potential customers (de-risking). We built a demo and showed it to people (de-risking for customers and for ourselves as a team). Heck, we got a [Y Combinator](http://ycombinator.com/) interview, which I felt like was the ultimate validation. Right?
 
 __Wrong__. What is the validation that you need? __Dollars__. Cash really is king. See if someone is willing to fork over a dime for your idea or product. This is why learning to make your first buck is so important. Go out and [sell a lemonade](http://findinbay.blogspot.com/2013/05/how-i-sold-my-first-lemonade-and-made.html). Learn something about the business and its value, not just build business plans.
 
-One of the key strategies for doing this easily and quickly is to start super small. Lemonades, pepople. Lemonades! The masses thirst for your product!
+One of the key strategies for doing this easily and quickly is to start super small. Lemonades, people. Lemonades! The masses thirst for your product!
 
 __Less talking, more doing__
 

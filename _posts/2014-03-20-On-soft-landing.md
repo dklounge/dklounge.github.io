@@ -2,7 +2,7 @@
 layout: post
 title: "How do you soft-land if your startup effort fails?"
 description: ""
-permalink: blog/soft-landing-startup-job
+permalink: soft-landing-startup-job
 category:
 tags: [career, startup]
 ---

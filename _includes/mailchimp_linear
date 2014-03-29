@@ -1,13 +1,13 @@
 <!-- Begin MailChimp Signup Form -->
 
 <div id="mc_embed_meetup">
-  <form action="http://github.us4.list-manage.com/subscribe/post?u=7538c9b9f9d0af6427404e8fd&amp;id=fcf1152b20" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+  <form action="http://github.us4.list-manage.com/subscribe/post?u=7538c9b9f9d0af6427404e8fd&amp;id=bd52d1fb6f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
   <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_7538c9b9f9d0af6427404e8fd_fcf1152b20" value=""></div>
 
-    <input type="submit" value="I want the meetup 101 guide" name="subscribe" id="mc-embedded-subscribe" class="button">
+    <input type="submit" value="Email me new posts" name="subscribe" id="mc-embedded-subscribe" class="button">
   </form>
 </div>
 

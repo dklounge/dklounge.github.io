@@ -72,9 +72,9 @@ The VC went to Dolores Park in San Francisco, walked around, and asked people "H
 > Dolores Park - credit: wikimedia.org
 
 ###2. Recognizing fear
-I am reading a book by Robert Greene about [Mastery](http://www.amazon.com/gp/product/B007V65PBK/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007V65PBK&linkCode=as2&tag=techpr0c-20). You may recall that Robert Greene is the guy who wrote a book about [48 Laws of Power](http://www.amazon.com/gp/product/0140280197/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140280197&linkCode=as2&tag=techpr0c-20).
+I am reading a book by Robert Greene about [Mastery](http://www.amazon.com/gp/product/B007V65PBK/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007V65PBK&linkCode=as2&tag=pmfatr-20). You may recall that Robert Greene is the guy who wrote a book about [48 Laws of Power](http://www.amazon.com/gp/product/0140280197/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140280197&linkCode=as2&tag=pmfatr-20).
 
-[![48 Laws of Power]({{site.url}}/assets/images/2014-03-20_48Laws.jpg "48 Laws")](http://www.amazon.com/gp/product/0140280197/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140280197&linkCode=as2&tag=techpr0c-20)
+[![48 Laws of Power]({{site.url}}/assets/images/2014-03-20_48Laws.jpg "48 Laws")](http://www.amazon.com/gp/product/0140280197/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=0140280197&linkCode=as2&tag=pmfatr-20)
 
 Greene\'s narrative is really insightful. He discerns patterns of how we gain mastery of a skill from studying past masters across various human disciplines: Mozart in music, Darwin in science, Benjamin Franklin in politics and business, plus modern-day role-models. He often refers to human brain and how it evolved to suit a pre-industrial age. Fear is an interesting case study.
 

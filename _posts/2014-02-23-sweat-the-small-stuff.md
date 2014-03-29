@@ -8,7 +8,9 @@ tags: [process, effectiveness]
 ---
 {% include setup %}
 
-When I was a junior auditor many years ago, Chris (one of the seniors on the team) mentioned a book to me called [__Don\'t Sweat the Small Stuff__](http://www.amazon.com/Dont-Sweat-Small-Stuff-Its/dp/0786881852). You can now guess as well as I could then what the book is about. I asked Chris if he had read the book. He answered "No, I haven\'t, but I read the back cover summary." Chris looked at me; he grinned. High irony, indeed, for us bean counters.
+When I was a junior auditor many years ago, Chris (one of the seniors on the team) mentioned a book to me called [__Don\'t Sweat the Small Stuff__](http://www.amazon.com/gp/product/B00BW1QWGC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BW1QWGC&linkCode=as2&tag=pmfatr-20). You can now guess as well as I could then what the book is about. I asked Chris if he had read the book. He answered "No, I haven\'t, but I read the back cover summary." Chris looked at me; he grinned. High irony, indeed, for us bean counters.
+
+[![Small Stuff]({{site.url}}/assets/images/2014-02-23_SmallStuff.jpg "Small Stuff")](http://www.amazon.com/gp/product/B00BW1QWGC/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BW1QWGC&linkCode=as2&tag=pmfatr-20)
 
 In some ways, the title became a metaphor for my life in which I chased after the big ideas and dreams. I wanted to get a MBA and become a general manager. I wanted to think about strategy, not tactics. I didn\'t want to sweat the small stuff. Looking back, I had fallen into a trap of lazy thinking. I left Intel because I didn\'t want to sweat the small stuff as a finance analyst. I wanted to get into YC with my friend (we did build lot of cool things and got a [YC interview]() with Garry and [Paul Buchheit](http://paulbuchheit.blogspot.com/)). I didn\'t want to sweat the details of grinding out little details when clearly it wasn\'t going to lead to a big round of funding.
 

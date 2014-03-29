@@ -10,7 +10,7 @@ tags: []
 
 Just wanted to let everyone know a few things about the site, especially those subscribing via email newsletter.
 
-* I currently use [Jekyll](http://jekyllrb.com/) to blog. I decided to migrate to octopress. [Octopress.org](http://octopress.org/) is just a wrapper of sorts around Jekyll, so in the end they are similar technologies. But, I realized that Octopress is more refined and has the right balance of simplicity and features, so it makes sense to invest the effort now and plan to use it for the long haul.
+* <p style="text-decoration: line-through;">I currently use Jekyll to blog. I decided to migrate to octopress. Octopress.org is just a wrapper of sorts around Jekyll, so in the end they are similar technologies. But, I realized that Octopress is more refined and has the right balance of simplicity and features, so it makes sense to invest the effort now and plan to use it for the long haul.</p> I decided not to over-engineer for the time being. The blog is fine.
 
 * I thought I would write weekly, but the truth is I write haphazardly. The reason is that I write not only here, but also for [Product Management Fast Track](http://productmanagementfasttrack.com/) and also planning to build out [Choosing Coding Bootcamps](http://choosingcodingbootcamps.com/). So, I decided I will aim for quality over quantity, and also recognize that I will be unable to commit to a rigid frequency.
 

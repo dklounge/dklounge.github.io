@@ -1,6 +1,7 @@
 exclude: ["README.md", "Rakefile"]
 pygments: true
 relative_permalinks: true
+markdown: kramdown
 
 title : The Growth Blog
 author :

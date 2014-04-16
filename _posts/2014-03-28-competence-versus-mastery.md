@@ -4,7 +4,7 @@ title: "Competence versus Mastery"
 description: ""
 permalink: competence-versus-mastery
 category:
-tags: []
+tags: [personal growth]
 ---
 {% include setup %}
 

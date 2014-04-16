@@ -4,7 +4,7 @@ title: "Ten year haul from within"
 description: ""
 permalink: ten-year-haul-from-within
 category:
-tags: []
+tags: [personal growth]
 ---
 {% include setup %}
 

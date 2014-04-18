@@ -40,7 +40,7 @@ Funny thing about learning. You can\'t learn how to fly a helicopter Matrix styl
 
 I took classes across various disciplines: finance, operations, decision analysis, marketing, communications, leadership. You dabble in one subject, and then move onto the next. You are training to be a multi-tasker, a master of none. And it is institutionalized and set into the very fabric of the MBA curriculum. First year requirements are, well, required.
 
-__Thought experiments__
+__Thought experiment__
 
 As an applicant, pull yourself out of GMAT scores and application interviews and graduation salary stats. Instead, imagine yourself currently at your dream B-school.
 
@@ -62,4 +62,4 @@ Mostly, we don\'t learn by osmosis. We learn something by actively using our bra
 
 If you go to B-school with base knowledge in topic, say human capital growth, then you have an opportunity to use your time and the intellectual resources on campus (professors, colleagues, university research labs) to come out world class on that topic. In which case __you are writing your own ticket__. Take the [long-term view](../ten-year-haul-from-within) to crafting something great for yourself and the world.
 
-Alternatively, you can come out of B-school having simply attended classes and lectures with passing interest, dabbling in this and that, to which you really only devote a portion of your quarter or semester. Then, you'll be mediocre and networking or otherwise, it won\'t help much with your job placement. (Check out a related post about [competence and mastery](competence-versus-mastery).)
+Alternatively, you can come out of B-school having simply attended classes and lectures with passing interest, dabbling in this and that, to which you really only devote a portion of your quarter or semester. Then, you'll be mediocre and networking or otherwise, it won\'t help much with your job placement. (Check out a related post about [competence and mastery](../competence-versus-mastery).)

@@ -29,7 +29,7 @@ __Guess how many new members we gained after all the hours we spent in this new 
 
 That\'s right. You guessed it. __Zero__. Or at least close to it.
 
-I got pretty frustrated, and even as I coached my team to empower and enable them to be more effective, I got to hustlin.'
+I got pretty frustrated, and even as I coached my peers to enable them to be more effective, I stopped talkin' and got to hustlin.'
 
 To hustle effectively, it really helps to [have a system](http://dklounge.github.io). I\'ll share more about that system in another post - so you can use it to be more effective in your efforts. In the meantime, let me just say it involved having daily goals and building in some accountability. It also involved a lot of creativity, to step outside of the routine of our speaker events, and generating new events like a [product teardown workshop](http://goo.gl/KvYIvQ).
 
@@ -44,7 +44,7 @@ This should be obvious, but I see many people get caught up in this. To differen
   <p>You can't measure your way to innovation.</p>
 </blockquote>
 
-There is no such thing. You can\'t measure your way to innovation. Instead, new ideas arise in the course of experiments and conversations with new customers. In other words, good things happen during your hustle.
+Funny thing about creativity. There is no such thing. You can\'t talk or measure your way to innovation. Instead, new ideas arise in the course of experiments and conversations with new customers. In other words, good things happen during your hustle. And only when you do.
 
 ###Hustling is a business strategy
 
@@ -53,9 +53,11 @@ The hustle paid off. In a period of 2 days, between new scheduled events some em
 Well, there is a simple solution here, right? You measure AND you hustle. You hustle AND you manage. So, whether you are taking stock of your own effectiveness or your teams, give some thought to these questions.
 
 * Are you managing or hustling?
-* If you need results, are you bringing in hustlers?
+* If you need results, what sort of team member do you need to recruit?
 * How can you get beyond measuring and convert your knowledge into action?
-* Reflect on how vigorous outbound efforts in the past has yielded new insights
+* Reflect on how vigorous outbound efforts in the past have yielded new insights
 * What are the systems of hustle in your life or in your organization?
 
-Finally, I am not advocating brute force. You can hustle intelligently using many tools. In any event, get off your ass and go do something great!
+Finally, I am not advocating brute force. You can hustle intelligently using many tools. I love how uncanny and insightful Paul Graham is about [beating the averages](http://paulgraham.com/avg.html). For us mortals, other wisdoms and systems are offered through sites like [AppSumo](http://www.appsumo.com/).
+
+In any event, get off your ass and go do something great!

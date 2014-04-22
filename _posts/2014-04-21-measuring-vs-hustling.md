@@ -17,9 +17,11 @@ I don\'t know what it is about late night tacos with a friend (other then delici
 ###Hustler vs Manager
 I lead a [product management](http://meetup.com/productmanagementfasttrack) community in San Francisco. It is now almost 1,000 members-strong. We organize useful events to promote the craft and career of PM, like this [product teardown workshop](http://goo.gl/KvYIvQ).
 
-The group has a following, and adds value for sure. It has been somewhat sleepy though, hosting a speaker event for 50-60 people every few weeks. I met with co-organizers over a series of dog-walk and cafe meetings (_don\'t you love San Fran?_) and we talked a lot. A lot! We performed analyses, drew up detailed mind diagrams of possible topics, list of potential speakers, division of roles, talked about member reach and engagement.
+The group adds value for sure (I know because I asked active members). It has been somewhat sleepy though, hosting a speaker event for 50-60 people every few weeks. Growth isn\'t everything, but I wanted to deliver more value, partly by growing. There are ways to [grow a community](../meetup-101-how-do-i-grow-membership/).
 
-In other words, we put our product manager hats on, and played product manager until sunset.
+I met with co-organizers over a series of dog-walk and cafe meetings (_don\'t you love San Fran?_) and we talked a lot. A lot! We performed analyses, drew up detailed mind diagrams of possible topics, list of potential speakers, division of roles, talked about member reach and engagement.
+
+In other words, we put our product manager hats on, and played product manager until the cowboy rode off into the sunset, eating nachos.
 
 > ![PM Fast Track]({{site.url}}/assets/images/2014-04-21_members.png "PM Fast Track" class="img-responsive")
 >
@@ -58,6 +60,6 @@ Well, there is a simple solution here, right? You measure AND you hustle. You hu
 * Reflect on how vigorous outbound efforts in the past have yielded new insights
 * What are the systems of hustle in your life or in your organization?
 
-Finally, I am not advocating brute force. You can hustle intelligently using many tools. I love how uncanny and insightful Paul Graham is about [beating the averages](http://paulgraham.com/avg.html). For us mortals, other wisdoms and systems are offered through sites like [AppSumo](http://www.appsumo.com/).
+Finally, I am not advocating brute force. You can hustle intelligently using many tools (remember the [leverage post?](http://dklounge.github.io/paradox-of-leverage/)). I love how uncanny and insightful Paul Graham is about [beating the averages](http://paulgraham.com/avg.html). For us mortals, other wisdoms and systems are offered through sites like [AppSumo](http://www.appsumo.com/).
 
 In any event, get off your ass and go do something great!

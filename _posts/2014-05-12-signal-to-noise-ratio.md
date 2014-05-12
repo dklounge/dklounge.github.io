@@ -13,7 +13,7 @@ If you are building a business or a product, you make many decisions. To make go
 Jason is one of my favorite authors. I admire Jason for his skills in selling as well as his skills in communicating. I aspire to the quality and range of his thoughts. For example, read this post about <a target='out' href="http://www.inc.com/magazine/20091101/the-way-i-work-jason-fried-of-37signals.html">"The Way I Work"</a> in which Jason shares what he learns from watching TV chef Mario Batali. I love that; you have to keep an open mind to learn from others.
 
 ###Signal and Noise
-Recently, I noticed that both signal and noise can be valuable, especially for leaders, and I want to 1) share those findings and 2) suggest a way to use them and 3) ask that you think about how to apply it to your business and share your ideas (comment below).
+Recently, I noticed that both signal and noise are valuable, especially for leaders. I want to 1) share those findings and 2) suggest a way to use them and 3) ask that you think about how to apply it to your business and share your ideas (comment below).
 
 In <a href="http://www.amazon.com/gp/product/B003ZK58TA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003ZK58TA&linkCode=as2&tag=dklo-20&linkId=MK4MOV4LWDY3ZYO4">Where Good Ideas Come From</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=dklo-20&l=as2&o=1&a=B003ZK58TA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, Johnson relates the story of an experiment performed by a Berkeley psychology professor <a target="out" href="http://www.charlannemeth.com/">Charlan Nemeth</a> many years ago. One finding was that brain-storming as commonly practiced is probably a waste of time. When you took 100 people, showed them a blue colored card, and then asked them to "free-associate" other words, about 80 people would say something very predictable: "color" or "sky." Only about 20 percent gave <a target="out" href="http://en.wikipedia.org/wiki/Long_tail">long tail</a> answers like "jazz" or "jeans."
 
@@ -27,12 +27,12 @@ Now, take another cohort of 100 and show them a blue colored card, but then inse
 
 [![Where Good Ideas Come From]({{site.url}}/assets/images/2014-05-12_GoodIdeas.jpg "Where Good Ideas Come From")](http://www.amazon.com/gp/product/B003ZK58TA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003ZK58TA&linkCode=as2&tag=dklo-20)
 
-In other words, Nemeth "deliberately introduced noise into the decision-making process," and the outcome was measurable increase in creativity. You read that right. Error is good in this context. Fascintaing!
+In other words, Nemeth "deliberately introduced noise into the decision-making process," and the outcome was measurable increase in creativity. You read that right. Error is good in this context. Fascinating!
 
 Like your peers, you probably have read Malcolm Gladwell\'s books. In <a target="out" href="http://www.amazon.com/gp/product/B000OT8GD0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000OT8GD0&linkCode=as2&tag=dklo-20&linkId=WDASKL62XT4R7XQV">The Tipping Point: How Little Things Can Make a Big Difference</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=dklo-20&l=as2&o=1&a=B000OT8GD0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, Gladwell describes the power of context. Narrating a shooting incident in the New York Subway by one Bernie Goetz, Gladwell points to the common assumption that crimes originate from a motive, that Goetz had a tough childhood, that he had psychological issues, and so forth. Instead, the Broken Windows principle suggests the exact opposite.
 
 <blockquote>
-  <p>[The individual] ... is actually someone acutely sensitive to his environment, who is alert to all kinds of cues, and who is prompted to commit crimes based on his perception of the world around him. That is an incrdibly radical - and in some sense unbelievable - idea.</p>
+  <p>[The individual] ... is actually someone acutely sensitive to his environment, who is alert to all kinds of cues, and who is prompted to commit crimes based on his perception of the world around him. That is an incredibly radical - and in some sense unbelievable - idea.</p>
 </blockquote>
 
 Let\'s replace "commit crimes" with "commit good code" or "commit good ideas or actions." As Gladwell goes onto say: "The Powre of Context is an environmental argument. It says that behavior is a function of social context."

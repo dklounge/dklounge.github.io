@@ -33,7 +33,7 @@ That\'s right. You guessed it. __Zero__. Or at least close to it.
 
 I got pretty frustrated, and even as I coached my peers to enable them to be more effective, I stopped talkin' and got to hustlin.'
 
-To hustle effectively, it really helps to [have a system](../data-driven-hustle-a-system). I\'ll share more about that system in another post - so you can use it to be more effective in your efforts. In the meantime, let me just say it involved having daily goals and building in some accountability. It also involved a lot of creativity, to step outside of the routine of our speaker events, and generating new events like a [product teardown workshop](http://goo.gl/KvYIvQ).
+To hustle effectively, it really helps to [have a system](../data-driven-hustle-a-system). I\'ll share more about that system in [a separate post](../data-driven-hustle-a-system) - so you can use it to be more effective in your efforts. In the meantime, let me just say it involved having daily goals and building in some accountability. It also involved a lot of creativity, to step outside of the routine of our speaker events, and generating new events like a [product teardown workshop](http://goo.gl/KvYIvQ).
 
 The thing about new events like that though, is that it has very little to do with product management, and mostly to do with sales. You have to sell the hosts and speakers on the value of the event and why they would benefit from sharing their time and knowledge. I don\'t need to digress into the particulars of sales versus product management, but the main point I want to convey about hustling in this context is that of inward versus outward effort.
 

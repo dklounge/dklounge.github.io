@@ -20,7 +20,7 @@ In <a href="http://www.amazon.com/gp/product/B003ZK58TA/ref=as_li_tl?ie=UTF8&cam
 Now, take another cohort of 100 and show them a blue colored card, but then insert an actor who says "That\'s green!" The rest will think that this dude is delusional, but what happens is fascinating.
 
 <blockquote>
-  <p>When Nemeth took this cohort and asked them to free-associate on the color names they had mentioned, the words they came up with were markedly different from the earlier group\'s. Some of them dutifully suggested "sky," like normal respondents, but the sort of associations that resided in the creative tail of the distribution - "jazz" or "jeans" - were far more numerous. In other words, when subjects were exposed to <em>inaccurate</em> descriptions of the slides, they became more creative.</p>
+  <p>When Nemeth took this cohort and asked them to free-associate on the color names they had mentioned, the words they came up with were markedly different from the earlier group's. Some of them dutifully suggested "sky," like normal respondents, but the sort of associations that resided in the creative tail of the distribution - "jazz" or "jeans" - were far more numerous. In other words, when subjects were exposed to <em>inaccurate</em> descriptions of the slides, they became more creative.</p>
 </blockquote>
 
 <a target="out" href="http://www.amazon.com/gp/product/B003ZK58TA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003ZK58TA&linkCode=as2&tag=dklo-20&linkId=MK4MOV4LWDY3ZYO4">Where Good Ideas Come From</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=dklo-20&l=as2&o=1&a=B003ZK58TA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -35,14 +35,14 @@ Like your peers, you probably have read Malcolm Gladwell\'s books. In <a target=
   <p>[The individual] ... is actually someone acutely sensitive to his environment, who is alert to all kinds of cues, and who is prompted to commit crimes based on his perception of the world around him. That is an incredibly radical - and in some sense unbelievable - idea.</p>
 </blockquote>
 
-Let\'s replace "commit crimes" with "commit good code" or "commit good ideas or actions." As Gladwell goes onto say: "The Powre of Context is an environmental argument. It says that behavior is a function of social context."
+Let\'s replace "commit crimes" with "commit good code" or "commit good ideas or actions." As Gladwell goes onto say: "The Power of Context is an environmental argument. It says that behavior is a function of social context."
 
 <a target="out" href="http://www.amazon.com/gp/product/B000OT8GD0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000OT8GD0&linkCode=as2&tag=dklo-20&linkId=WDASKL62XT4R7XQV">The Tipping Point</a>
 
 [![Tipping Point]({{site.url}}/assets/images/2014-05-12_TippingPoint.jpg "Tipping Point")](http://www.amazon.com/gp/product/B000OT8GD0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000OT8GD0&linkCode=as2&tag=dklo-20)
 
 ###Action: Signal to Noise Ratio and Volume
-Take these two ideas together, and you find that for your team to function at a high-level, you actually __want noise__ in your environment, lest all of your ideas or innovations become flat and stale. Or you want to find a way of injecting some opposite into your processes. For example, a friend is building a stock market game called <a href="www.bearandbull.co">Bear and Bull</a>. As you would expect, whoever makes most money in a given period of time wins. When my friend took the idea to a mentor, the mentor turned the idea on its head, and asked "what if you win the game by losing all the money?" Seemingly non-sensical, but the point is to get you thinking. See how it works?
+Take these two ideas together, and you find that for your team to function at a high-level, you actually __want noise__ in your environment, lest all of your ideas or innovations become flat and stale. Or you want to find a way of injecting some opposite into your processes. For example, a friend is building a stock market game called <a href="www.bearandbull.co">Bear and Bull</a>. As you would expect, whoever makes most money in a given period of time wins. When my friend took the idea to a mentor, the mentor turned the idea on its head, and asked "what if you win the game by losing all the money?" Seemingly nonsensical, but the point is to get you thinking. See how it works?
 
 Your goal is not simply to aim for a high signal to noise ratio. Your goal is to increase the volume of both the signal and the noise. As the frequency of actions and ideas rises, so will the quality gradually (or suddenly) rise. If you just try ten ideas, and find only two are good, then you are at 20%. What you would find is that if you aim for thousand ideas, whereas your first 10 yielded only 2 good ideas, your last 10 (ideas 990 through 1000) would probably yield ideas that are all superior to your first 2 good ideas. Sound fair? That\'s the volume, and again, that\'s where you might want a robust [system to enable](../data-driven-hustle-a-system) that culture.
 

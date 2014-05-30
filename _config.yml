@@ -1,5 +1,5 @@
 exclude: ["README.md", "Rakefile"]
-pygments: true
+highlighter: pygments
 relative_permalinks: true
 markdown: kramdown
 

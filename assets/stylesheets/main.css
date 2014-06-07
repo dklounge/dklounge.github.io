@@ -225,3 +225,7 @@ pre code {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+.blog p img {
+  width: 95%;
+}

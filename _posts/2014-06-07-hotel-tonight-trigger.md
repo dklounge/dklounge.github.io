@@ -12,10 +12,12 @@ tags: [product management]
 
 This week, I have been reading a book called <a target="_" href="http://www.amazon.com/gp/product/B00HJ4A43S/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HJ4A43S&linkCode=as2&tag=pmft-20">Hooked</a>, which is about building habit forming products by Nir Eyal (who also writes about it in his blog <a target="_" href="http://nirandfar.com/">nirandfar.com</a>).
 
-A lot of us go through the day and do things __automatically__, because we have been conditioned to do so.  The first step to such conditioning is a __trigger__.  To use an example (from the book), before you became addicted to Instagram, you first became aware through an <a target="_" href="http://www.nirandfar.com/2012/04/billion-dollar-mind-trick.html">external trigger</a>, such as an Instagram picture posted on your friend\'s Facebook wall.  Once you become a regular user, you find yourself opening Instagram to capture and share a beautiful moment.  This describes a transition from external to an __internal trigger__.  Instagram has got you!  As the saying goes: <em>"we are what we repeatedly do."</em>
+In this post, I take a quick-pass analysis of an email I got from Hotel Tonight, an email which was an <a target="_" href="http://www.nirandfar.com/2012/04/billion-dollar-mind-trick.html">external trigger</a> to goad me to act.  The focus is not so much on habit formation, as general product and trigger observations.
+
+A lot of us go through the day and do things __automatically__, because we have been conditioned to do so.  The first step to such conditioning is a __trigger__.  To use an example (from the book), before you became addicted to Instagram, you first became aware through an __external trigger__, such as an Instagram picture posted on your friend\'s Facebook wall.  Once you become a regular user, you find yourself opening Instagram to capture and share a beautiful moment.  This describes a transition from external to an __internal trigger__.  Instagram has got you!  As the saying goes: <em>"we are what we repeatedly do."</em>
 
 ###Hotel Tonight Email Trigger
-I saw this email from Hotel Tonight come through my inbox recently.
+So, Hotel Tonight sent this email, and I woke up to it in my inbox.
 
 >![HT email 1]({{site.url}}/assets/images/HT/IMG_6270.PNG "HT email 1")
 >
@@ -31,18 +33,24 @@ As you scroll down, you see different hotel room types.  In the following two ro
 >
 >HIP and SOLID rooms
 
-Alright.  My curiosity sufficiently stoked, I open the mobile app.  The email trigger successfully lead to action.
+Alright.  My curiosity sufficiently stoked, I open the mobile app.  The email _trigger successfully lead to action_.
 
 >![HT email 3]({{site.url}}/assets/images/HT/IMG_6272.PNG "HT email 3")
 >
 >Room types and images are complemented with room prices.
 
-You can find a few techniques in the image above intended to move the rooms (i.e. action triggers).  The first is bargain hunting.  See how the room price has been cut from $324 to $199.  The second is scarcity.  Notice that there are only 2 rooms remaining at Hotel Monaco. _Get this room now before it is sold out!_
+You can find a few techniques in the image above intended to move the rooms (i.e. action triggers).
 
-###Categories and Questions
-I have to say that I am puzzled by the product team\'s decision around room categories. First of all, how should the user decipher the room categories and the colors?  Does the intended user user the app often enough to be able to associate the colors with the categories?
+* The first is bargain hunting.  See how the room price has been cut from $324 to $199.
 
-Are the catgory names themselves intuitively defined?  I had no idea what "SOLID" meant.  I fumbled around the app to find what it means in this next screen shot.
+* The second is scarcity.  Notice that there are only 2 rooms remaining at Hotel Monaco. _Get this room now before it is sold out!_
+
+###Room Categories Confusion
+I have to say that I am puzzled by the product team\'s decision around room categories.
+
+* First of all, how should the user decipher the room categories and the colors?  Does the intended user use the app often enough to be able to associate the colors with the categories?
+
+* Are the catgory names themselves intuitively defined?  I had no idea what "SOLID" meant.  I fumbled around the app to find what it means in this next screen shot.
 
 >![HT SOLID]({{site.url}}/assets/images/HT/IMG_6273.PNG "HT SOLID")
 >
@@ -69,6 +77,11 @@ Compare Airbnb.  If the catgories are intended to trigger something, it is inter
 >
 ><a target="_" href="http://www.airbnb.com/">Airbnb</a> landing page.
 
+The aspirational imagery subtly leads to an __internal trigger__.  Next time you think about vacation, you may find yourself going to Airbnb to browse.
+
 One final question for both Airbnb and Hotel Tonight is, given the observation that human beings <a target="_" href="http://conversionxl.com/5-principles-of-persuasive-web-design/">attract attention</a>, __why are people missing from the picture?__
 
-Imagine that top image, with an attractive bartender staring squarely at you.
+Imagine that top image, with an attractive bartender staring squarely at you, or the Airbnb deck, with a playful gal sipping from a cup, living the good life.  Now, _wouldn\'t you like to be there?_
+
+###More
+If you liked this post, you may want to try a comparative mobile app teardown screenshots for <a target="_" href="http://www.slideshare.net/PMFastTrack/product-teardown-air-bnb-hoteltonight">Airbnb and Hotel Tonight</a>. Give it a try, annotating what you see in detail, and improve your product sense in the process.

@@ -62,6 +62,8 @@ To create a structure, there are topics that users can create and follow. Today,
 
 Telescope out from the individual uses and consider the case study above, and you can see how useful a system of knowledge sharing like this can be for your organization.
 
+(Many of you may also note, that there is a product called [Yammer](https://www.yammer.com/), which is like corporate Quora. It was acquired by Mirosoft. But, read on.)
+
 ###Before you build an internal version
 
 I did not know this as I was writing this post, but it turns out Quora recently rolled out an organization account feature - looks like it was May 2014.  If you are an organization leader, or even a team manager, it might be worth while experimenting with this _as a team_, and learning from it.

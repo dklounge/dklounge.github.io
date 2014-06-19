@@ -83,3 +83,12 @@ If you enjoyed this post you may also enjoy:
 
 * [measuring vs hustling](../measuring-vs-hustling/)
 * [signal to noise ratio](../signal-to-noise-ratio/)
+
+And you may enjoy reading a book by Senge about learning organizations:
+
+<a target="_" href="http://www.amazon.com/gp/product/B000SEIFKK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000SEIFKK&linkCode=as2&tag=dklo-20&linkId=UCO5A5QKZUCJTQ5O">The Fifth Discipline: The Art & Practice of The Learning Organization</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=dklo-20&l=as2&o=1&a=B000SEIFKK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+> Team learning is vital because teams, not individuals, are the fundamental learning unit in modern organizations.
+>
+
+[![Fifth Discipline]({{site.url}}/assets/images/books/2014-06-19_FifthDiscipline.jpg "5th Discipline")](http://www.amazon.com/gp/product/B000SEIFKK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000SEIFKK&linkCode=as2&tag=dklo-20&linkId=UCO5A5QKZUCJTQ5O)

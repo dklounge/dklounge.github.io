@@ -4,7 +4,7 @@ title: "What is your career path?"
 description: ""
 permalink: career-path-lies
 category:
-tags: []
+tags: [career]
 ---
 {% include setup %}
 

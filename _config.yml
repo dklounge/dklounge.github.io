@@ -9,9 +9,9 @@ author :
   email : daviddarden11@gmail.com
   github : dklounge
   twitter : findinbay
-  feedburner : DavidKimBlog
+  feedburner : techproductmanager
 
-production_url : http://dklounge.github.io
+production_url : http://techproductmanager.com
 
 BASE_PATH : false
 ASSET_PATH : false
